@@ -13,12 +13,17 @@ Membuat Gradle sederhana dan menjalankan perintahnya lalu dorong ke GitHub.
 2. Print dengan pesan ucapan dengan menjalankan perintah "./gradlew greetibgTask -Pnama=YourName"
 
 3. Dorong proyek ke GitHub dengan perintah :
-   git init
-   git add .
-   git commit -m "first commit"
-   git branch -M main
-   git remote add origin https://github.com/Hmdfdjr/BelajarGradleJayjay.git
-   git push -u origin main
+   * git init
+     
+   * git add .
+     
+   * git commit -m "first commit"
+
+   * git branch -M main
+
+   * git remote add origin https://github.com/Hmdfdjr/BelajarGradleJayjay.git
+
+   * git push -u origin main
 
 ##Tools yang di pakai :
 - Language : Java
